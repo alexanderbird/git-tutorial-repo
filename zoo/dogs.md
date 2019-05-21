@@ -9,3 +9,4 @@
  - Beagle
  - Belgian Sheepdog
  - Berger Picard
+ - Bernese Mountain Dog
