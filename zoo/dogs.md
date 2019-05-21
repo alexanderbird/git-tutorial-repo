@@ -20,3 +20,4 @@
  - Portuguese Water Dog
  - Pug
  - Shiba Inu
+ - Swedish Vallhund
