@@ -1,2 +1,3 @@
 # Cats
  - American Wirehair
+ - Balinese
