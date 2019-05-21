@@ -3,3 +3,4 @@
  - Balinese
  - British Semi-longhair
  - Egyptian Mau
+ - Norwegian Forest Cat
