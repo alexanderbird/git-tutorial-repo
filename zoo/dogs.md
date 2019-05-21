@@ -1,2 +1,3 @@
 # Dogs
  - Affenpinscher
+ - Alaskan Malamute
