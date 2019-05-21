@@ -14,4 +14,4 @@
  - Doberman Pinscher
  - Finnish Spitz
  - Greater Swiss Mountain Dog
- - Lancalalalalalala
+ - Lancashire Heeler
