@@ -21,3 +21,4 @@
  - Pug
  - Shiba Inu
  - Swedish Vallhund
+ - Wirehaired Pointing Griffon
