@@ -11,3 +11,4 @@
  - Berger Picard
  - Bernese Mountain Dog
  - Chinese Shar Pei
+ - Doberman Pinscher
