@@ -6,3 +6,4 @@
  - Norwegian Forest Cat
  - Ragdoll
  - Turkish Angora
+ - York Chocolate
