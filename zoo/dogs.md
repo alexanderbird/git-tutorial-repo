@@ -12,3 +12,4 @@
  - Bernese Mountain Dog
  - Chinese Shar Pei
  - Doberman Pinscher
+ - Finnish Spitz
