@@ -19,3 +19,4 @@
  - Portuguese Podengo Pequeno
  - Portuguese Water Dog
  - Pug
+ - Shiba Inu
