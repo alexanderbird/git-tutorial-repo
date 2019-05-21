@@ -13,3 +13,4 @@
  - Chinese Shar Pei
  - Doberman Pinscher
  - Finnish Spitz
+ - Greater Swiss Mountain Dog
