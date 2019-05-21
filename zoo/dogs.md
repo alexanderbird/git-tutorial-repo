@@ -15,3 +15,4 @@
  - Finnish Spitz
  - Greater Swiss Mountain Dog
  - Lancashire Heeler
+ - Nova Scotia Duck-Tolling Retriever
