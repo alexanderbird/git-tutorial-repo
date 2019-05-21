@@ -6,3 +6,4 @@
  - American Hairless Terrier
  - Australian Terrier
  - Basset Hound
+ - Beagle
