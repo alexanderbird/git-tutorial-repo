@@ -18,3 +18,4 @@
  - Nova Scotia Duck-Tolling Retriever
  - Portuguese Podengo Pequeno
  - Portuguese Water Dog
+ - Pug
