@@ -8,3 +8,4 @@
  - Basset Hound
  - Beagle
  - Belgian Sheepdog
+ - Berger Picard
