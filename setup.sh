@@ -17,9 +17,11 @@ echo " - Bernese Mountain Dog" >> ./zoo/dogs.md && git add -A && git commit -m "
 echo " - Chinese Shar Pei" >> ./zoo/dogs.md && git add -A && git commit -m "Add Chinese Shar Pei to the dog list"
 echo " - Doberman Pinscher" >> ./zoo/dogs.md && git add -A && git commit -m "Add Doberman Pinscher to the dog list"
 echo " - Finnish Spitz" >> ./zoo/dogs.md && git add -A && git commit -m "Add Finnish Spitz to the dog list"
+
+git checkout -b dogs
 echo " - Greater Swiss Mountain Dog" >> ./zoo/dogs.md && git add -A && git commit -m "Add Greater Swiss Mountain Dog to the dog list"
 echo " - Lancalalalalalala" >> ./zoo/dogs.md && git add -A && git commit -m "wip"
-sed -i "s/Lancalalalalalala/Lancashire Heeler/" ./zoo/dogs.md && git add -A && git commit -m "Add Lancashire Heeler to the dog list"
+sed -i "s/Lancalalalalalala/Lancashire Heeler/" ./zoo/dogs.md && git add -A && git commit -m "Fix Lancashire Heeler in the dog list"
 echo " - Nova Scotia Duck-Tolling Retriever" >> ./zoo/dogs.md && git add -A && git commit -m "Add Nova Scotia Duck-Tolling Retriever to the dog list"
 echo " - Portuguese Podengo Pequeno" >> ./zoo/dogs.md && git add -A && git commit -m "Add Portuguese Podengo Pequeno to the dog list"
 echo " - Portuguese Water Dog" >> ./zoo/dogs.md && git add -A && git commit -m "Add Portuguese Water Dog to the dog list"
@@ -28,7 +30,7 @@ echo " - Shiba Inu" >> ./zoo/dogs.md && git add -A && git commit -m "Add Shiba I
 echo " - Swedish Vallhund" >> ./zoo/dogs.md && git add -A && git commit -m "Add Swedish Vallhund to the dog list"
 echo " - Wirehaired Pointing Griffon" >> ./zoo/dogs.md && git add -A && git commit -m "Add Wirehaired Pointing typo Griffon to the dog list"
 
-git checkout -b cats
+git checkout master -b cats
 echo "# Cats" > ./zoo/cats.md && git add -A && git commit -m "Initialize cat list"
 echo " - American Wirehair" >> ./zoo/cats.md && git add -A && git commit -m "Add American Wirehair to the cat list"
 echo " - Balinese" >> ./zoo/cats.md && git add -A && git commit -m "Add Balinese to the cat list"
