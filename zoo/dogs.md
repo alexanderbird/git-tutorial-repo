@@ -7,3 +7,4 @@
  - Australian Terrier
  - Basset Hound
  - Beagle
+ - Belgian Sheepdog
