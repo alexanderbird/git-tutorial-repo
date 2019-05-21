@@ -21,7 +21,7 @@ echo " - Finnish Spitz" >> ./zoo/dogs.md && git add -A && git commit -m "Add Fin
 git checkout -b dogs
 echo " - Greater Swiss Mountain Dog" >> ./zoo/dogs.md && git add -A && git commit -m "Add Greater Swiss Mountain Dog to the dog list"
 echo " - Lancalalalalalala" >> ./zoo/dogs.md && git add -A && git commit -m "wip"
-sed -i "s/Lancalalalalalala/Lancashire Heeler/" ./zoo/dogs.md && git add -A && git commit -m "Fix Lancashire Heeler in the dog list"
+sed -i '' "s/Lancalalalalalala/Lancashire Heeler/" ./zoo/dogs.md && git add -A && git commit -m "Fix Lancashire Heeler in the dog list"
 echo " - Nova Scotia Duck-Tolling Retriever" >> ./zoo/dogs.md && git add -A && git commit -m "Add Nova Scotia Duck-Tolling Retriever to the dog list"
 echo " - Portuguese Podengo Pequeno" >> ./zoo/dogs.md && git add -A && git commit -m "Add Portuguese Podengo Pequeno to the dog list"
 echo " - Portuguese Water Dog" >> ./zoo/dogs.md && git add -A && git commit -m "Add Portuguese Water Dog to the dog list"
