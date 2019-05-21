@@ -5,3 +5,4 @@
  - Egyptian Mau
  - Norwegian Forest Cat
  - Ragdoll
+ - Turkish Angora
