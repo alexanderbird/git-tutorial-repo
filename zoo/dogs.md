@@ -5,3 +5,4 @@
  - American Foxhound
  - American Hairless Terrier
  - Australian Terrier
+ - Basset Hound
